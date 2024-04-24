@@ -1,0 +1,12 @@
+Url - http://localhost/tasks/public/login
+
+
+Credientials
+username - admin
+password - admin@123
+
+username - user1
+password - user12345
+
+username - user2
+password - user12345
